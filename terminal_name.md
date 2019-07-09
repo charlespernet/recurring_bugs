@@ -15,8 +15,6 @@ Ce n'est pas la première promo pour laquelle je vois ça et je viens enfin de c
 ``` 
 https://apple.stackexchange.com/questions/30552/os-x-computer-name-not-matching-what-shows-on-terminal
 
-Ca doit venir de la configuration des boxes internet.
-
 Cela veut dire que le nom de l'ordinateur n'est pas configuré pour cet utilisateur, et donc le shell va chercher son nom ailleurs.
 
 vous pouvez le vérifier pour confirmer mon intituion en tapant : 
