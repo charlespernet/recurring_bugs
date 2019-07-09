@@ -14,6 +14,7 @@ Ce n'est pas la première promo pour laquelle je vois ça et je viens enfin de c
   fails to resolve.
 ``` 
 https://apple.stackexchange.com/questions/30552/os-x-computer-name-not-matching-what-shows-on-terminal
+https://apple.stackexchange.com/questions/88463/terminal-shows-hostname-from-old-machine-not-new-machine/88466#88466
 
 Cela veut dire que le nom de l'ordinateur n'est pas configuré pour cet utilisateur, et donc le shell va chercher son nom ailleurs.
 
